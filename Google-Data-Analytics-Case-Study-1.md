@@ -554,5 +554,5 @@ a reliable strategy to convert casual users into members:
 1.  Concentrate efforts around Chicago Navy Pier;
 2.  Focus on electric bikes in all seasons, except summer, when classic
     bikes are the top choice;
-3.  Spring is a good season to make conversion campaings. Weekends are
+3.  Spring is a good season to make conversion campaigns. Weekends are
     the best days to approach casual users.
