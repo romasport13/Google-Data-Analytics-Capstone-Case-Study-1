@@ -17,3 +17,5 @@ To achieve this goal, the marketing department wants an answer to the following 
 
 The case study, with the analysis and visualizations, can be found in the R Markdown file at:
 
+https://github.com/romasport13/Google-Data-Analytics-Capstone-Case-Study-1/blob/main/Google-Data-Analytics-Case-Study-1.md
+
